@@ -5,8 +5,6 @@
 
 
 import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib import animation as animation
 
 
 Tmax, NdT = 10000, 100
