@@ -4,8 +4,7 @@
 
 
 import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib import animation as animation
+
 
 x_vc, y_vc = 0.7*np.ones(4), 0.7*np.ones(4)
 #x_vc, y_vc = np.random.random(4), np.random.random(4)
