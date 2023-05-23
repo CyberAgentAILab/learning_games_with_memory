@@ -4,8 +4,6 @@
 
 
 import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib import animation as animation
 
 
 det = 3 # if 1: random initial value, 2: neighbor of Nash equilibrium, 3: for Fig.~4
