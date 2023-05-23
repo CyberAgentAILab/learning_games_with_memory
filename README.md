@@ -6,7 +6,6 @@ Repeated games consider a situation where multiple agents are motivated by their
 
 ## How to use
 "cont_MMGA.py" outputs the data necessary to draw Fig. 2 and 3.
-
 All of "disc_MMGA_Xac_Ymm", where X (resp. Y) indicates the number of actions (resp. memories), output the data necessary to draw Fig. 4.
 
 ## Citation
