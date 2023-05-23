@@ -4,8 +4,6 @@
 
 
 import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib import animation as animation
 
 
 det = 2 # if 1: random, 2: for Fig.~4
