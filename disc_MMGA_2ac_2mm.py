@@ -4,8 +4,6 @@
 
 
 import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib import animation as animation
 
 
 #x_vc, y_vc = np.random.random(16), np.random.random(16)
