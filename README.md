@@ -7,7 +7,7 @@ Repeated games consider a situation where multiple agents are motivated by their
 ## Installation
 This code is written in Python 3. To install the required dependencies, execute the following command:
 ```bash
-$ pip install -r requirements.txt
+$ pip install numpy
 ```
 
 ## How to use
